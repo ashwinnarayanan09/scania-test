@@ -4,4 +4,5 @@
 
 
 # Running the app
+docker build -t dockerapp.jar . 
 docker run -p 9090:8080 dockerapp.jar
