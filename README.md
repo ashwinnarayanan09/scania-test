@@ -16,6 +16,8 @@
 - Url - http://35.90.180.123:8080/
 
 # Messaging design
-![image](https://user-images.githubusercontent.com/18032733/190396800-cdceb7d1-5b9f-4534-9181-dbb555569a79.png)# Health check endpoint
+![image](https://user-images.githubusercontent.com/18032733/190396800-cdceb7d1-5b9f-4534-9181-dbb555569a79.png)
+
+# Health check endpoint
 
 /actuator/health
