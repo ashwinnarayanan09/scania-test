@@ -8,3 +8,6 @@
   docker run -p 9090:8080 ashwinnarayanan09/dockerapp.jar
 
 
+# Health check endpoint
+
+/actuator/health
